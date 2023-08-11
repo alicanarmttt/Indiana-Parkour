@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2540cf6e9f8927543a3e5875f2aa7da4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - oyuncu: {fileID: 5976021316733877409, guid: 40097095423d8f04b8ac7a97dbd9894b, type: 3}
+  - transPos: {instanceID: 0}
+  - altinSayisiText: {instanceID: 0}
+  - button: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
